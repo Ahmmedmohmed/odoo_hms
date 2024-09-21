@@ -1,5 +1,5 @@
 {
-    "name": "Hospatal Mange System",
+    "name": "Hospitals Management System",
     "summary": "",
     "description": """ """,
     "author": "Ahmed Mohmed",
